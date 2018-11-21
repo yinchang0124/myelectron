@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "packager": "electron-packager /home/yc/work/myelectron/helloworld helloworld --platform=linux --out /home/yc/work/myelectron/helloworld/outApp --electron-version 3.0.9 --overwrite --icon=./app/img/icon/hello.ico"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.9",
+    "electron-packager": "^12.2.0"
+  },
+  "dependencies": {
+    "wine": "^0.9.8"
+  }
+}
