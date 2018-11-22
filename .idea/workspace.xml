@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36570205-3587-458d-b067-598df57fe19b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/win-choose-path/choose-path.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/win-choose-path/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/win-hello/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/win-hello/img/icon/hello.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/win-hello/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/win-hi-build/hi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/win-hi-build/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/win-hzh/hzh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/win-hzh/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,7 +82,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="33" />
+          <entry key="gitignore" value="34" />
           <entry key="html" value="111" />
           <entry key="js" value="549" />
           <entry key="json" value="175" />
@@ -103,7 +93,7 @@
           <entry key="HTML" value="111" />
           <entry key="JSON" value="175" />
           <entry key="JavaScript" value="549" />
-          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="PLAIN_TEXT" value="34" />
         </counts>
       </usages-collector>
     </session>
@@ -132,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/win-hzh/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -141,7 +131,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -213,7 +203,7 @@
       <path value="$PROJECT_DIR$/win-hzh/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -247,7 +237,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542854048313" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542857862525" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -322,12 +312,12 @@
       <workItem from="1542272429659" duration="5296000" />
       <workItem from="1542768964913" duration="6827000" />
       <workItem from="1542809485538" duration="3797000" />
-      <workItem from="1542852160525" duration="2105000" />
+      <workItem from="1542852160525" duration="5236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18025000" />
+    <option name="totallyTimeSpent" value="21156000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -339,7 +329,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -526,14 +516,14 @@
     <entry file="file://$PROJECT_DIR$/win-hzh/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
