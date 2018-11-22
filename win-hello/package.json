@@ -1,0 +1,20 @@
+{
+  "name": "win-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "build": {
+    "appId": "com.yc.app", // 应用id
+    "productName":"hi" // 项目名称, 即打包之后的*.exe文件名
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.10",
+    "electron-packager": "^12.2.0"
+  }
+}

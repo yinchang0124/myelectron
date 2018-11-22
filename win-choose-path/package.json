@@ -1,0 +1,36 @@
+{
+  "name": "win-choose-path",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.10"
+  },
+  "build": {
+    "directories": {
+      "output": "E:\\溯源\\myelectron\\win-choose-path\\outApp",
+      "app": "E:\\溯源\\myelectron\\win-choose-path"
+    },
+    "win": {
+      "target": [
+        "nsis",
+        "zip"
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "perMachine": true
+    }
+  },
+  "dependencies": {
+    "electron-updater": "^4.0.4"
+  },
+  "description": ""
+}
